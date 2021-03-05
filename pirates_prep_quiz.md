@@ -9,7 +9,6 @@
 # Intro
 
 
-
 For this homework, your task is to run both the client and the server for the pirates application and be able to navagite the code gaining a foundation to build on for tomorrows lesson. Dont worry about the React router elements of the app such as <Router> and <Switch> for now.
 
 First, run the piratesServiceEnd.
