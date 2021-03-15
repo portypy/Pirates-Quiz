@@ -21,7 +21,8 @@ Then run your front end by using "npm install" and "npm start". On http://localh
 ```js
   "proxy": "http://localhost:8080/"
 ```
-
+ 
+ 
 # Requesting All Pirates
 
 Question 1
