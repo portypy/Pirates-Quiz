@@ -81,7 +81,6 @@ All the way from PirateContainer.js.
 
 # Bonus Points Questions
 
-
 Question 1
 
 In PirateContainer, what does Promise.all return?
